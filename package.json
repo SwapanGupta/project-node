@@ -1,0 +1,22 @@
+{
+  "name": "project-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwapanGupta/project-node.git"
+  },
+  "author": "swapan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwapanGupta/project-node/issues"
+  },
+  "homepage": "https://github.com/SwapanGupta/project-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
